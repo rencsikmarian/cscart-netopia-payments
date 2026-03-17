@@ -35,8 +35,6 @@
      - Upload your **Public Certificate** (`.cer` file)
      - Upload your **Private Key** (`.key` file)
      - Select **Test** or **Live** mode
-  4. Copy the **IPN Callback URL** shown in the configuration and paste it into your NETOPIA merchant dashboard
-  as the IPN/Confirm URL
 
   ## How It Works
 

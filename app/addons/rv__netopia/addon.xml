@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<addon scheme="4.0">
+    <id>rv__netopia</id>
+    <version>1.0.0</version>
+    <default_language>en</default_language>
+    <priority>100</priority>
+    <status>active</status>
+
+    <autoload>
+        <psr4 prefix="Tygh\Addons\RvNetopia\">src</psr4>
+    </autoload>
+
+    <bootstrap>\Tygh\Addons\RvNetopia\Bootstrap</bootstrap>
+    <installer>\Tygh\Addons\RvNetopia\Installer</installer>
+</addon>

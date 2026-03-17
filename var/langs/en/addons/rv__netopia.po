@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "Addons::name::rv__netopia"
+msgid "Netopia Payments"
+msgstr "Netopia Payments"
+
+msgctxt "Addons::description::rv__netopia"
+msgid "Netopia mobilPay payment gateway integration for CS-Cart"
+msgstr "Netopia mobilPay payment gateway integration for CS-Cart"
+
+msgctxt "Languages::rv__netopia.netopia_payments"
+msgid "Netopia Payments"
+msgstr "Netopia Payments"
+
+msgctxt "Languages::rv__netopia.account_signature"
+msgid "Account Signature"
+msgstr "Account Signature"
+
+msgctxt "Languages::rv__netopia.account_signature_tooltip"
+msgid "Your merchant signature from the Netopia dashboard (Settings > NETOPIA Payments > Account Signature)"
+msgstr "Your merchant signature from the Netopia dashboard (Settings > NETOPIA Payments > Account Signature)"
+
+msgctxt "Languages::rv__netopia.public_certificate"
+msgid "Public Certificate (.cer)"
+msgstr "Public Certificate (.cer)"
+
+msgctxt "Languages::rv__netopia.public_certificate_tooltip"
+msgid "Upload the public certificate file (.cer) downloaded from your Netopia merchant dashboard"
+msgstr "Upload the public certificate file (.cer) downloaded from your Netopia merchant dashboard"
+
+msgctxt "Languages::rv__netopia.private_key"
+msgid "Private Key (.key)"
+msgstr "Private Key (.key)"
+
+msgctxt "Languages::rv__netopia.private_key_tooltip"
+msgid "Upload the private key file (.key) downloaded from your Netopia merchant dashboard"
+msgstr "Upload the private key file (.key) downloaded from your Netopia merchant dashboard"
+
+msgctxt "Languages::rv__netopia.certificate_uploaded"
+msgid "Certificate uploaded"
+msgstr "Certificate uploaded"
+
+msgctxt "Languages::rv__netopia.no_certificate"
+msgid "No certificate uploaded"
+msgstr "No certificate uploaded"
+
+msgctxt "Languages::rv__netopia.key_uploaded"
+msgid "Private key uploaded"
+msgstr "Private key uploaded"
+
+msgctxt "Languages::rv__netopia.no_key"
+msgid "No private key uploaded"
+msgstr "No private key uploaded"
+
+msgctxt "Languages::rv__netopia.ipn_url"
+msgid "IPN Callback URL"
+msgstr "IPN Callback URL"
+
+msgctxt "Languages::rv__netopia.ipn_url_tooltip"
+msgid "Copy this URL and paste it into your Netopia merchant dashboard as the IPN/Confirm URL"
+msgstr "Copy this URL and paste it into your Netopia merchant dashboard as the IPN/Confirm URL"
+
+msgctxt "Languages::rv__netopia.payment_failed"
+msgid "Payment failed: [error_message]"
+msgstr "Payment failed: [error_message]"
+
+msgctxt "Languages::rv__netopia.payment_pending"
+msgid "Payment is pending verification"
+msgstr "Payment is pending verification"
+
+msgctxt "Languages::rv__netopia.payment_authorized"
+msgid "Payment authorized (not yet captured)"
+msgstr "Payment authorized (not yet captured)"
+
+msgctxt "Languages::rv__netopia.decryption_failed"
+msgid "Failed to decrypt payment notification"
+msgstr "Failed to decrypt payment notification"
+
+msgctxt "Languages::rv__netopia.invalid_certificate"
+msgid "Invalid certificate file. Please upload a valid .cer file"
+msgstr "Invalid certificate file. Please upload a valid .cer file"
+
+msgctxt "Languages::rv__netopia.invalid_key"
+msgid "Invalid key file. Please upload a valid .key file"
+msgstr "Invalid key file. Please upload a valid .key file"
+
+msgctxt "Languages::rv__netopia.missing_certificates"
+msgid "Please upload both the public certificate and private key in the payment method settings"
+msgstr "Please upload both the public certificate and private key in the payment method settings"
+
+msgctxt "Languages::rv__netopia.refund_received"
+msgid "Refund received from Netopia"
+msgstr "Refund received from Netopia"
+
+msgctxt "Languages::rv__netopia.payment_confirmed"
+msgid "Payment confirmed by Netopia"
+msgstr "Payment confirmed by Netopia"
+
+msgctxt "Languages::rv__netopia.payment_canceled"
+msgid "Payment canceled by Netopia"
+msgstr "Payment canceled by Netopia"
+
+msgctxt "Languages::rv__netopia.payment_unknown_action"
+msgid "Unknown payment action: [action]"
+msgstr "Unknown payment action: [action]"
+
+msgctxt "Languages::rv__netopia.ipn_missing_params"
+msgid "Missing POST parameters"
+msgstr "Missing POST parameters"
+
+msgctxt "Languages::rv__netopia.ipn_decryption_failed"
+msgid "Decryption failed or order not found"
+msgstr "Decryption failed or order not found"
+
+msgctxt "Languages::rv__netopia.ipn_order_mismatch"
+msgid "Order payment mismatch"
+msgstr "Order payment mismatch"

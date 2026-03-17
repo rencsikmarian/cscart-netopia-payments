@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+
+msgctxt "Addons::name::rv__netopia"
+msgid "Netopia Payments"
+msgstr "Netopia Payments"
+
+msgctxt "Addons::description::rv__netopia"
+msgid "Netopia mobilPay payment gateway integration for CS-Cart"
+msgstr "Integrare gateway de plată Netopia mobilPay pentru CS-Cart"
+
+msgctxt "Languages::rv__netopia.netopia_payments"
+msgid "Netopia Payments"
+msgstr "Netopia Payments"
+
+msgctxt "Languages::rv__netopia.account_signature"
+msgid "Account Signature"
+msgstr "Semnătura contului"
+
+msgctxt "Languages::rv__netopia.account_signature_tooltip"
+msgid "Your merchant signature from the Netopia dashboard (Settings > NETOPIA Payments > Account Signature)"
+msgstr "Semnătura de comerciant din panoul Netopia (Setări > NETOPIA Payments > Semnătura contului)"
+
+msgctxt "Languages::rv__netopia.public_certificate"
+msgid "Public Certificate (.cer)"
+msgstr "Certificat public (.cer)"
+
+msgctxt "Languages::rv__netopia.public_certificate_tooltip"
+msgid "Upload the public certificate file (.cer) downloaded from your Netopia merchant dashboard"
+msgstr "Încărcați fișierul certificatului public (.cer) descărcat din panoul de comerciant Netopia"
+
+msgctxt "Languages::rv__netopia.private_key"
+msgid "Private Key (.key)"
+msgstr "Cheie privată (.key)"
+
+msgctxt "Languages::rv__netopia.private_key_tooltip"
+msgid "Upload the private key file (.key) downloaded from your Netopia merchant dashboard"
+msgstr "Încărcați fișierul cheii private (.key) descărcat din panoul de comerciant Netopia"
+
+msgctxt "Languages::rv__netopia.certificate_uploaded"
+msgid "Certificate uploaded"
+msgstr "Certificat încărcat"
+
+msgctxt "Languages::rv__netopia.no_certificate"
+msgid "No certificate uploaded"
+msgstr "Niciun certificat încărcat"
+
+msgctxt "Languages::rv__netopia.key_uploaded"
+msgid "Private key uploaded"
+msgstr "Cheie privată încărcată"
+
+msgctxt "Languages::rv__netopia.no_key"
+msgid "No private key uploaded"
+msgstr "Nicio cheie privată încărcată"
+
+msgctxt "Languages::rv__netopia.ipn_url"
+msgid "IPN Callback URL"
+msgstr "URL callback IPN"
+
+msgctxt "Languages::rv__netopia.ipn_url_tooltip"
+msgid "Copy this URL and paste it into your Netopia merchant dashboard as the IPN/Confirm URL"
+msgstr "Copiați acest URL și inserați-l în panoul de comerciant Netopia ca URL IPN/Confirmare"
+
+msgctxt "Languages::rv__netopia.payment_failed"
+msgid "Payment failed: [error_message]"
+msgstr "Plata a eșuat: [error_message]"
+
+msgctxt "Languages::rv__netopia.payment_pending"
+msgid "Payment is pending verification"
+msgstr "Plata este în curs de verificare"
+
+msgctxt "Languages::rv__netopia.payment_authorized"
+msgid "Payment authorized (not yet captured)"
+msgstr "Plata autorizată (încă neprocesată)"
+
+msgctxt "Languages::rv__netopia.decryption_failed"
+msgid "Failed to decrypt payment notification"
+msgstr "Decriptarea notificării de plată a eșuat"
+
+msgctxt "Languages::rv__netopia.invalid_certificate"
+msgid "Invalid certificate file. Please upload a valid .cer file"
+msgstr "Fișier certificat invalid. Vă rugăm încărcați un fișier .cer valid"
+
+msgctxt "Languages::rv__netopia.invalid_key"
+msgid "Invalid key file. Please upload a valid .key file"
+msgstr "Fișier cheie invalid. Vă rugăm încărcați un fișier .key valid"
+
+msgctxt "Languages::rv__netopia.missing_certificates"
+msgid "Please upload both the public certificate and private key in the payment method settings"
+msgstr "Vă rugăm încărcați atât certificatul public cât și cheia privată în setările metodei de plată"
+
+msgctxt "Languages::rv__netopia.refund_received"
+msgid "Refund received from Netopia"
+msgstr "Rambursare primită de la Netopia"
+
+msgctxt "Languages::rv__netopia.payment_confirmed"
+msgid "Payment confirmed by Netopia"
+msgstr "Plata confirmată de Netopia"
+
+msgctxt "Languages::rv__netopia.payment_canceled"
+msgid "Payment canceled by Netopia"
+msgstr "Plata anulată de Netopia"
+
+msgctxt "Languages::rv__netopia.payment_unknown_action"
+msgid "Unknown payment action: [action]"
+msgstr "Acțiune de plată necunoscută: [action]"
+
+msgctxt "Languages::rv__netopia.ipn_missing_params"
+msgid "Missing POST parameters"
+msgstr "Parametri POST lipsă"
+
+msgctxt "Languages::rv__netopia.ipn_decryption_failed"
+msgid "Decryption failed or order not found"
+msgstr "Decriptarea a eșuat sau comanda nu a fost găsită"
+
+msgctxt "Languages::rv__netopia.ipn_order_mismatch"
+msgid "Order payment mismatch"
+msgstr "Nepotrivire între comandă și metoda de plată"
